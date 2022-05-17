@@ -6,7 +6,7 @@ namespace HomeWorkProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine(Calc.Add(10,13));
         }
     }
 }

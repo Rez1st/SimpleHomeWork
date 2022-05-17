@@ -1,5 +1,4 @@
 ﻿using System;
-using MyLibrary;
 
 namespace HomeWorkProject
 {
@@ -7,7 +6,6 @@ namespace HomeWorkProject
     {
         private static void Main(string[] args)
         {
-            Helper.PrintWithColor("Hello colored World!", ConsoleColor.Green);
         }
     }
 }
